@@ -8,12 +8,14 @@ function preload() {
     loadImage('images/1.png'),
     loadImage('images/2.png'),
     loadImage('images/3.png'),
-    loadImage('images/1.png'),
-    loadImage('images/2.png'),
-    loadImage('images/3.png'),
-    loadImage('images/1.png'),
-    loadImage('images/2.png'),
-    loadImage('images/3.png'),
+    loadImage('images/4.png'),
+    loadImage('images/5.png'),
+    loadImage('images/6.png'),
+    loadImage('images/7.png'),
+    loadImage('images/8.png'),
+    loadImage('images/9.png'),
+    loadImage('images/10.png'),
+    loadImage('images/11.png'),
   ];
   imageX = Array(images.length).fill(0).map((x,i) => i * image_width * 1.1)
 }
